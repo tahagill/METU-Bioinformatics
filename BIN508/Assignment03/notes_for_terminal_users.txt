@@ -1,0 +1,16 @@
+- For part 1, on IGV, the reference genome you should select should be
+  mm39, since it is the version you download using the link.
+
+- For 1c, you need to use the SAM file, not the BAM file. Galaxy creates
+  a bit of confusion here as it stores these alignment files only as the
+  BAM version, but converts it to SAM version if the user needs it. But
+  this process is completely hidden from the user.
+  - You should use the 'more' command on the SAM file to see the contents.
+    As you tap on the space bar, you will be able to scroll down.
+
+- You results might differ from the Galaxy tutorial. 
+
+- For part 2, using Galaxy is HIGHLY SUGGESTED. 
+  - If you are comfortable with terminal,
+    - and if you have a PC/Mac with good specs, 
+      feel free to try terminal commands.
