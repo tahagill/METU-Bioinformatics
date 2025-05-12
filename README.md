@@ -10,7 +10,7 @@ Key tools used:
 - The course covers searching, analyzing, and interpreting sequence data.
 
 ## BIN508: Next-Generation Sequencing and Informatics
-The **BIN508** course provides an introduction to methods for next-generation nucleic acid sequencing (NGS) data analysis. It includes most recent high-thoughput sequencing laboratory technologies and informatics tools for data analyses. It also covers Data structures and algorithms for the NGS technologies and applications including ***variant detection, CHIP-seq, RNA-seq, de novo assembly, and targeted sequencing** . Computational frameworks and toolkits such as **SAMTools**, **BedTools***, **BWA**, **TopHat/Cufflinks**, **GATK**, **QIIME**, **R**, and **Galaxy** are used. 
+The **BIN508** course provides an introduction to methods for next-generation nucleic acid sequencing (NGS) data analysis. It includes most recent high-thoughput sequencing laboratory technologies and informatics tools for data analyses. It also covers Data structures and algorithms for the NGS technologies and applications including ***variant detection, CHIP-seq, RNA-seq, de novo assembly, and targeted sequencing** . Computational frameworks and toolkits such as **SAMTools**, **BedTools***, **BWA**, **TopHat/Cufflinks**, **GATK**, **IGV**, **QIIME**, **R**, and **Galaxy** are used. 
 - **Galaxy**, and **Terminal** for running bioinformatics workflows.
 - The use of various tools and platforms for NGS data analysis, including working with different data types and pipelines.
 
