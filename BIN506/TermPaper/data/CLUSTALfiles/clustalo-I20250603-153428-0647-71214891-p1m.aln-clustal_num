@@ -1,0 +1,219 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          MDMDVMMISMCI-LASTLMAPGWASTSGFLRVPQSQSIVENEAADFGCEA-TDPASYLHY	58
+B3MH43          --MAALRISVWILVQALMMALVSSNSSHFLQLPQSQSVVENESVDFECQASTDPSSELHY	58
+B3NS99          --MTARMISIYGLVLASMMASVWASSSRFQRLPQSQSVVENESVKFECES-TDSYSELHY	57
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          EWLHNGREISYDKRVYRIGSHLHIEAVQREEDVGDYVCIATSLASGAREASPPAKLSVIY	118
+B3MH43          EWLHNGHRIAYDKRVYQIGSHLHIEAVQRAEDVGDYVCIATSLASGAREASPPAKLSVIY	118
+B3NS99          DWLHNGHRIAYDKRVHQIGSNLHIEAARRTEDVGSYVCIATNLASGAREASPPAKLSVIY	117
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          LESASVQLLGSNRNELLLKCHVEGASGD-EPLQIEWYRDSARLASWGNVHLEEHRLLVRQ	177
+B3MH43          IDSASVQLLGSNRNELLLKCHVEAVSGSDDPLQIEWYRNSAKLSSWQNVQLDQHRLIIRQ	178
+B3NS99          LESASVQLLGSNRNELLLKCHVEGASGDSEPLEIEWYRNSEKLSTWKNVQLDQHRLIIRQ	177
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          PSPSDDGLYRCTASNAAGRVMSKQGYVYQANIKCLPRLLK-KNQKLPESWGKQTFLCRGK	236
+B3MH43          PSAADDGLYRCTASNAAGRVMSKQGYVYRSSLKCLPRLPRRKNQKLPESWSKEVFLCRGK	238
+B3NS99          PGSDDDGLYRCTASNAAGRVMSKQGYAYQSSVKCLPRLARRKNQKMMESWDKQTFLCRGK	237
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          RGGSGGLDQALSPAPEDLRIVQGPAGQLLIKEGDSAALSCLYELPAELQNQRIQLRWRKD	296
+B3MH43          RGGSGGVE-ALPSAPEDLRIVQGPASHAIIKEGDPAALTCLYELPAELQNQRIQLRWRKD	297
+B3NS99          RGGAAGLE-ALPAAPEDLRIVQGPVGQSIIKEGEPTALTCLYELPDELKNQRIQLRWRKD	296
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          ------------------------------------------------------------	0
+B4GBH0          GKLLRHVELGGAIPIPGHAHDSGKDALLREDARLVLHKQNGTLSFASIIASDAGQYQCQL	356
+B3MH43          GKLLRHVELGNSLPLPGISSDSGKDALLREDARLVLHKQNGTLSFASIIASDAGQYQCQL	357
+B3NS99          GKLLRQVELGGSAPITGHSFDSGKDALLREDARLVLHKQNGTLSFASIIASDAGQYQCQL	356
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          -----MVNPGPPGLIAGLLLAALSLSSVDGTKALGFVGHGYNM-TVSQGHEAKLNCSLQG	54
+B4GBH0          QLEGHAPLNSSPGLLE-------------VIEQLKFVPQPTSKNLELDAAVAKVHCKAQG	403
+B3MH43          QLEGYAPINSSPGTLE-------------VIEQLKFVPQPTSKNLELDAPIAKVHCKAQG	404
+B3NS99          QLEGHLPISSTPGVLE-------------VIEQLKFVPQPTSKNLELDAVVAKVHCKAQG	403
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          MEEPEIQWLKDGVPVQSA-DQMYIPVDEDHWISFLSLKNVERPDAGRYWCEAEHSGRKSV	113
+B4GBH0          TPSPQVQWLREGSLNSSLPDQVE--VDI---NGTLIFRNVRAEHRGNYTCQARSSQGQI-	457
+B3MH43          TPTPQVQWMRDDA-NTSLPDQVE--VDA---NGTLIFRNVNADHRGNYTCLATNSQGQI-	457
+B3NS99          TPTPQVQWVRDGE-NSTLPDQVE--VDA---NGTLIFRNVNSEHRGNYTCLASNTQGQI-	456
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          SDAIWVMVEGVPYFTLEPKD-LSVTPNSPFNMTCAAVGPPEPLVIFWWVGDSP-LGKSES	171
+B4GBH0          SATVSINVVVTPKFSVPPVGPIETTEQGTVVMHCQAIGDPKPTIQ--WDKDLKYLSENNT	515
+B3MH43          NATVAINVVVTPKFSVPPVGPIETAEQGNVVIHCQAIGDPKPTIQ--WDKDLTYLSENNT	515
+B3NS99          NATVAINVVVTPKFSVPPVGPIETSEQGTVVMHCQAIGDPKPTIQ--WDKDLKYLSENNT	514
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          SPS--------VL--QIPGIRERTAFSCEAHNAKGVSSSRTAI-VEVKGLPYPPFNVTIS	220
+B4GBH0          DRERFSFLENGTLEIRNVQVEDEGSYGCTIGNSAGLKREDVQLVVRSTGDGFAPEET---	572
+B3MH43          DRERFRFLENGTLEIRNVQAEDEGSYGCTIGNSAGLKREDVQLVVKTAGDGFPPEES---	572
+B3NS99          DRERFRFLENGTLEIRNVQVEDEGSYGCTIGNSAGLKREDVQLVVKTTGDGFAPEES---	571
+                                                                            
+
+A0A0K3AV08      ------------------------------------------------------------	0
+A0JM20          KVTGSTATVTWSPGFNSFSLIKSCTIQVQSLHGNREMYSRLTSVPPFAVVLDDLQPLTNH	280
+B4GBH0          -------------GGDGFLVTRAVLI-------------TMTVALAYIVLV---------	597
+B3MH43          -------------GGDGFLVTRAVLI-------------TMTVALAYIVLV---------	597
+B3NS99          -------------GGDGFLVTRAVLI-------------TMTVALAYIVLV---------	596
+                                                                            
+
+A0A0K3AV08      ---------------------MEQASVPSYVNIPPIAK--------------TRSTS---	22
+A0JM20          SVRVQCTNEMGASPFSEWITFNTKEKVPQLI---------------PQNVHMTKTDSCLL	325
+B4GBH0          ------------VGLMLWCRYRRQARKARLNELSIKEAGGDQPDASVTNGKGSEQEPCLS	645
+B3MH43          ------------VGLMLWCRYRRQARKARLNELSTKEAGGDQPDGA-ANGKGSEQEPCLS	644
+B3NS99          ------------VGLMLWCRYRRQARKARLNDLSTKEAGGDQPDAA-GNGKGSEQEPCLS	643
+                                       :                            :.      
+
+A0A0K3AV08      ----HLAPTPEHHRS----VSYEDTTTAST---ST---------DSVPEVRIRSESSQVS	62
+A0JM20          LDWEDVDPDKEGYNILGFKVQWEQENTTQGELFVQENQANLTKWNPEKDLTIRICIANAA	385
+B4GBH0          KQRNG----------------------ASGKPKSKSN--------G--D----AQKSDDT	669
+B3MH43          KQRNG----------------------HGGQSRSKSN--------G--D----AQKSDDT	668
+B3NS99          KQHNG----------------------HS-KSRSKSS--------G--D----AQKSDDT	666
+                                                                :       :: :
+
+A0A0K3AV08      RESPPIRASKAFVASYEYEA--QKD-----DELNLPLGAIITLVTVETNE---------D	106
+A0JM20          GCGP---WSEFLLAGSKEEAGKQRHPHTRMSWVPMVLGILTALVTVVAMTLIFLRKGRKE	442
+B4GBH0          ACSQ---QSR----------SSKKS-----VYEQLVL------PRSGLSELLQIGRGEFG	705
+B3MH43          ACSQ---QSR----------ASKKSAH---IYEQLAL------PRSGLTELIQIGRGEFG	706
+B3NS99          ACSQ---QSR----------ASKKSAH---IYEQLAL------PRSGLSELIQIGRGEFG	704
+                  .     *.            ::          : *                       
+
+A0A0K3AV08      GWYRGELNGKV----GLFPSNYAREVTYKDNLVEFKQDEI-MLPVAVRTLSDCQIGHGAT	161
+A0JM20          TRF-GNMLGSMLGRGGPVIQFTAA--------RSFNRR---GPEVMEATLDSIGISDELK	490
+B4GBH0          DVFVGKLKASLVAASAQSDKDADTE---KQHSNSENGSGGSGSGSGSTTLSTLNEKRRSK	762
+B3MH43          DVFVGKLKASLVATGSPSDKDADTE---KQHSNSENGSGGSG--SGSTTLSTLNEKRRSK	761
+B3NS99          DVFVGKLKATLVT--SPTDKDADTE---KQHSNSENGSGGSG--SGSTTLSTLNEKRRSK	757
+                  : *:: ..:    .   .             . :            **.        .
+
+A0A0K3AV08      A-----TVFKMDIKIKKELQNGRMGEAVGDQMKAALKR--FNRHASNFRADVVSTDEQLE	214
+A0JM20          SKLKDVLIQQQQFTLGRTLGKGEFGSVREAQLK--MEDDTMQKVAVKMLKAEIFCSSDIE	548
+B4GBH0          TSMDD------------------IEEIKEEEPE---QSALEQLVLVKAL-NKVKDEQACQ	800
+B3MH43          TSMDD------------------IEEIKEEEQEQ-QQSDLDQLVLVKAL-NKVKDEQACQ	801
+B3NS99          TSMDD------------------IEEIKEEEQEQHNQSALEQLVLVKAL-NKVKDEQACQ	798
+                :                      : .    : :   :    :    :     :  ..  :
+
+A0A0K3AV08      QLKREANLVNGLSHNNIVRLLGICLEDPYFGL------LLELCEGSSLRN----------	258
+A0JM20          EFLREAAFMKEFDHPNVCKLIGVSLRSRTKGRLPVPMVILPFMKHGDLHTFLLMSRI---	605
+B4GBH0          EFRRQLDLLRGISHKGVVRLFGLCREKD------PHYMVLEYTDWGDLKQFLLATAGKVN	854
+B3MH43          EFRRQLDLLRGISHKGVVRLFGLCREKD------PHYMVLEYTDWGDLKQFLLATAGKVN	855
+B3NS99          EFRRQLDLLRAISHKGVVRLFGLCREKD------PHYMVLEYTDWGDLKQFLLATAGKVN	852
+                :: *:  ::. :.* .: :*:*:. ..           :*   . ..*:           
+
+A0A0K3AV08      --VCRNLNSDAAIPLGVLIDWATQVAEGMEYLTKQGYVHRDLKADNVLVKEEVCLCMDEE	316
+A0JM20          ------GEEPIALPIQTLVRFMIDICSGMEYLSSKNFIHRDLATRNCMLNEDMTVCVADF	659
+B4GBH0          TAT--ATSSPPALTTSQVLAVAYQIARGMDAIYRSRCTHRDLATRNCVISSEFVVKVSYP	912
+B3MH43          TASAAATSSPPPLTTSQVLAVAYQIARGMDAIYRARFTHRDLATRNCVISSEFIVKVSYP	915
+B3NS99          TATA-GSSSPPPLTTSQVLAVAYQIARGMDAIYRARFTHRDLATRNCVISSEFIVKVSYP	911
+                       ..   :    ::    ::. **: :      **** : * ::..:. : :   
+
+A0A0K3AV08      MFQYAYCLKCGKRPFDKLQLKITDFGVTRKMTADANRFSTAGTYAWLAPEAFKEGTWSEA	376
+A0JM20          G----LSKKIYSGDYYR------------------QGCASKLPVKWLALESLADNVYTVH	697
+B4GBH0          A----LCKDKYSREYHK-------------------HRNTLLPVRWLAPECIQEDEYTTK	949
+B3MH43          A----LCKDKYSREYHK-------------------HRNTLLPIRWLAPECIQEDEYTTK	952
+B3NS99          A----LCKDKYSREYHK-------------------HRNTLLPIRWLAPECIQEDEYTTK	948
+                      . .  .  : :                      :     *** *.: :. ::  
+
+A0A0K3AV08      SDVWSYGVVLWELLTREE--PYQGHIPATIAFQIANKGQNLSIGDSCPDRWKKLMQDCWN	434
+A0JM20          SDVWAFGVTLWEIVTRGQT-PYAGVENSEIYSYLTAGN-RLKQPPDCLDELYEMMCQCWI	755
+B4GBH0          SDIFAYGVLVWELFNQATKLPHEELTSEQVIQRSQAGTLEWTVAEATPDSLKEILLSCWL	1009
+B3MH43          SDIFAYGVVVWELFNQATKLPHEELTNEQVIQKSQAGTLEWTVAESTPDSLREILLSCWV	1012
+B3NS99          SDIFAYGVVVWELFNQATKLPHEELTNEQVVQRSQAGSLEWSVAEATPDSLREILLSCWV	1008
+                **::::** :**:..:    *:       :         . .      *   ::: .** 
+
+A0A0K3AV08      LEPNFRPKFSTLAISFKQYAKEFKDTHLQRAPSKMAVKELYSECFADKTKEEFEKRFH--	492
+A0JM20          TEPKRRPSFVDLKRRLEAIWGRLSILSASH---DQLYVNLGETCGAAAAVSGLHSAFCKE	812
+B4GBH0          ANPKERPSFSQLGSALSKAMQSVAEK----------------------------------	1035
+B3MH43          SNPKERPSFSQLGAALSKAMQSLEK-----------------------------------	1037
+B3NS99          SNPKERPSFSQLGAALSKAMQSVEK-----------------------------------	1033
+                 :*: **.*  *   :.     .                                     
+
+A0A0K3AV08      -DLYAG------SGDINRKNRHSIAP--------------ETKARRLKHHKPKKADITGP	531
+A0JM20          EDYCAGPSQTCGTSAITSDYRYIVNPGCLREGNEWSSSAQNGEARGLLHEEEEEEEEEE-	871
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      TEVKHILSVQKDDKNFRVKTYDQSSTGGTLPRLNERQSTLSLSSPDLFHISNLISGSNTV	591
+A0JM20          --------------------------------MQEEQVVITL------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      GHSAHRISRKNAIRHKKNQHRMFESPVVSPTMDDSNTFSTIDNADEVDPNHSKESKKGGT	651
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      LSRAWAKLPWNKRDSKEDHDERAVAGSISSRSSSTTSSNRLITGQTTRGASAAGLLEIGA	711
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      RSRAQSTADGWEDPNTTKKHKVSPSDKRPVKTTNQTERYVKDLEKDTPLRPAQLPPTHRK	771
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      SALDQTIPASPNSPDSINNFHPMPLSSRRTTANSSSDGAPCYDALVSHSYGAGHGHKNHF	831
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      GLSDTIPLFPEEPTHYDMGPGRPFGTNGRAIVNQGGDYYGNISGQNYEGFGHGRSINQST	891
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      QYYPVGGGCDDYIPIVQKTVIKPTVGEVGNSPYSENIRCATRNVQNPQYIQCKKNQNPRR	951
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      IPALPMKIQSESNLVTSGMVFTPRDEQLNGIGNSLSSLSLNEPPDIPAPLPPVVTYPIPA	1011
+A0JM20          ------------------------------------------------------------	881
+B4GBH0          ------------------------------------------------------------	1035
+B3MH43          ------------------------------------------------------------	1037
+B3NS99          ------------------------------------------------------------	1033
+                                                                            
+
+A0A0K3AV08      SLISPSNRVSMSPPTRMAPVLPLGAMSSPRIMDKEILKNSSVEGTEIY	1059
+A0JM20          ------------------------------------------------	881
+B4GBH0          ------------------------------------------------	1035
+B3MH43          ------------------------------------------------	1037
+B3NS99          ------------------------------------------------	1033
+                                                                
